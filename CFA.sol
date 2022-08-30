@@ -1,6 +1,6 @@
 
 
-pragma solidity 0.8.0;
+pragma solidity 0.8.9;
 
 contract coachesPoll {
 
@@ -9,7 +9,7 @@ contract coachesPoll {
     string state;
     string conference;
     uint winLoss;
-    uint years;
+    uint year;
     
 
 
