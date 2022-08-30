@@ -9,6 +9,8 @@ contract StateFootball {
     string mascot;
     string coach;
 
+    //add another variable to track last season record
+
     function addState(string memory _state) public{
         state = _state;
     }
