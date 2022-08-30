@@ -8,6 +8,7 @@ contract StateFootball {
     string team;
     string mascot;
     string coach;
+    uint recordLast;
 
     //add another variable to track last season record
 
